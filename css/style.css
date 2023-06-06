@@ -206,7 +206,7 @@ a {
     }
 
     #home .home__tittle {
-      background-image: url(/Proyecto3/imagenes/girl-sitting-flor.jpeg);
+      background-image: url(/preEntrega2+Guardia/imagenes/girl-sitting-flor.jpeg);
       height: 300px;
       background-size: cover;
       font-size: xx-large;
@@ -273,7 +273,7 @@ a {
 
     /* MEDIA MONITOR | INDEX */
     #home {
-      background-image: url(/Proyecto3/imagenes/girl-sitting-flor.jpeg);
+      background-image: url(/preEntrega2+Guardia/imagenes/girl-sitting-flor.jpeg);
       height: 655px;
       background-size: cover;
       margin-top: 10px;
